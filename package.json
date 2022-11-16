@@ -1,0 +1,22 @@
+{
+  "name": "calculatorwebapplication",
+  "version": "1.0.0",
+  "description": "A calculator web application to practice my node and express skills",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amxxrsuhail/calculatorWebApplication.git"
+  },
+  "author": "Ameer Suhail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amxxrsuhail/calculatorWebApplication/issues"
+  },
+  "homepage": "https://github.com/amxxrsuhail/calculatorWebApplication#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
